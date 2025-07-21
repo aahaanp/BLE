@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "CSR_IoT_Lab";
-const char* password = "#IOT@1984";
+const char* ssid = "Your_WiFi_Name";
+const char* password = "Your_WiFi_Password";
 
 WebServer server(80);
 
